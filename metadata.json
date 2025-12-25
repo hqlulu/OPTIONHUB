@@ -1,0 +1,5 @@
+{
+  "name": "OptionDynamics - NVDA Strategy Simulator",
+  "description": "An interactive stock and option price simulator that visualizes the impact of price changes and time decay (Theta) on various option contracts using the Black-Scholes model.",
+  "requestFramePermissions": []
+}
